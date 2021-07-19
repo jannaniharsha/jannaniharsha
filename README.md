@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jannaniharsha
+- 👋 Hi, I’m Jannani Thambidurai
 - 👀 I’m interested in Data and Business Analytics
 - 🌱 I’m currently learning python and Power BI
 - 💞️ I’m looking to collaborate on analytics-programming
